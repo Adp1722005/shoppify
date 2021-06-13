@@ -1,6 +1,4 @@
-# RestroGirls
+# Shoppify
 
-A Simple Demo Resturant Management System Project in PHP
+Shoppify is an ecommerce web-based platform that will provide an interactive user interface to improve website’s accessibility for them. They will have access to products ranging from clothing to accessories to footwear with less effort to browse through the website.The main objective of this website is to make an easy shopping experience for visually impaired people(with low vision). Special features like alt-text to images, screen magnifier to magnify text, screen reader to automatically read text, etc. help users to make less efforts to search, view, sort, select, and order products online. The website is a common platform and acts as an intermediary between users and suppliers to buy and sell products online. It has a search engine with a speech-to-text option for users to search specific products, the engine gives quick results as per user input(text or voice) and filter used. Users can view available products and their specifications, and compare them with similar products. They can view product reviews and write reviews for the products they have already purchased. Users can add products to the shopping cart and choose a quick check-out option.The main focus is to provide user-friendly features to partially-sighted people for easy accessibility and readability.  
 
-
-A pure custom PHP Project. Build for reference!
